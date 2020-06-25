@@ -1,0 +1,10 @@
+server:
+  port: 9090
+  servlet:
+    context-path: /SpringSecurityDefault
+    
+spring:
+  security:
+    user:
+      name: testuser
+      password: Password@123
