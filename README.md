@@ -7,5 +7,6 @@
 	* This generates random password which framework provides.
 	* Next, step is to add a user and password in application.yml file
 2. **Security with Database Authentication**
+	* Users created in the Database amd authentication happening from database itself
 
 
